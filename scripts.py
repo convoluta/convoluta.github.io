@@ -7,6 +7,10 @@ def python(file):
     run(f"{shlex.quote(sys.executable)} {file}")
 
 
+def python_module(module):
+    run(f"{shlex.quote(sys.executable)} -m {module}")
+
+
 def run(command):
     subprocess.run(shlex.split(command))
 
