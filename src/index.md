@@ -4,11 +4,11 @@ Whether you know it or not, the web is filled with lies, especially in the form 
 
 ## Enter Convoluta
 
-Convoluta is a revolutionary ML-based solution to detect fake news. Versatile, accurate, and blazing-fast, Convoluta is able to detect the truthfulness of the news you read on demand.
+Convoluta is a revolutionary ML-based solution to detect misinformation. Versatile, accurate, and blazing-fast, Convoluta is able to detect the truthfulness of the news you read on demand.
 
 ## Easy to Use
 
-Convoluta is always just a click away, never far. As a browser extension, Convoluta can detect as you browse, keeping you safe from fake news.
+Convoluta is always just a click away, never far. As a browser extension, Convoluta can detect as you browse, keeping you safe from misinformation.
 
 ## Getting Convoluta
 
